@@ -1,2 +1,2 @@
-<h1 align="left">Hi 👋, I'm Jan</h1>
-<h3 align="left">When I'm not working, you'll find me on my bike 🚴🏻‍♂️ or in the gym.</h3>
+<h1 align="left">friedrich/h1>
+<h3 align="left">long distances, light weights & unreadable code</h3>
